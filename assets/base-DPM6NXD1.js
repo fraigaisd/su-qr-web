@@ -1,4 +1,4 @@
-import{l as Xo}from"./components-BtHrYe4u.js";var vo=typeof globalThis<"u"?globalThis:typeof window<"u"?window:typeof global<"u"?global:typeof self<"u"?self:{};function Qr(e){return e&&e.__esModule&&Object.prototype.hasOwnProperty.call(e,"default")?e.default:e}var Vf={exports:{}},ba={},Wf={exports:{}},ae={};/**
+import{l as Xo}from"/qr-code-page/assets/components-BtHrYe4u.js";var vo=typeof globalThis<"u"?globalThis:typeof window<"u"?window:typeof global<"u"?global:typeof self<"u"?self:{};function Qr(e){return e&&e.__esModule&&Object.prototype.hasOwnProperty.call(e,"default")?e.default:e}var Vf={exports:{}},ba={},Wf={exports:{}},ae={};/**
  * @license React
  * react.production.min.js
  *
